@@ -1,5 +1,5 @@
 # objectoriented_bouncingball
-Latihan bahasa pemrograman Java dengan teknik pemrograman berorientasi berupa objek bola menggunakan library frame, objek graphic 2D, dan lain-lain.
+Latihan bahasa pemrograman Java dengan teknik pemrograman berorientasi objek berwujud bola menggunakan library frame, objek graphic 2D, dan lain-lain.
 
 # Cara Penggunaan
 1. Import folder project ke IDE pemrograman Java
