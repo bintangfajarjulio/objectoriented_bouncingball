@@ -109,9 +109,6 @@ class BounceFrame extends JFrame {
 		JPanel buttonPanel2 = new JPanel();
 		buttonPanel2.setLayout(new FlowLayout());
 		
-		buttonPanel.setLayout(new FlowLayout());
-		buttonPanel2.setLayout(new FlowLayout());
-
 		addButton(buttonPanel, "Shape: " + shape, event -> changeShape());
 		addButton(buttonPanel, "Size: " + large, event -> changeLarge());
 		addButton(buttonPanel, "Direction: " + direction, event -> changeDirection());
