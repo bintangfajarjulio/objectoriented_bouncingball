@@ -9,5 +9,5 @@ Latihan bahasa pemrograman Java dengan teknik pemrograman berorientasi objek ber
 
 Apabila terjadi error:
 1. Buat folder dan package baru
-2. Drag semua file .class pada folder package baru
-3. Update preference
+2. Drag semua file .class pada folder package baru untuk pengcopyan
+3. Setujui update preference
