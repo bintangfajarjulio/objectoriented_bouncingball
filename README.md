@@ -6,3 +6,8 @@ Latihan bahasa pemrograman Java dengan teknik pemrograman berorientasi objek ber
 2. Pilih kategori package yang berisi class-class sesuai keinginan anda
 3. Run program dapat dilakukan seperti biasa melalui class CustomBounce
 4. Terdapat beberapa package yang dapat diakses melalui telnet pada command prompt melalui localhost dengan port 6789 
+
+Apabila terjadi error:
+1. Buat folder dan package baru
+2. Drag file .class pada folder package baru
+3. Update preference
